@@ -23,5 +23,5 @@ End-to-end Quality Assurance portfolio built by **Alondra Valdez** to demonstrat
 ---
 
 ## Connect With Me
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **LinkedIn:** (https://www.linkedin.com/in/alondra-valdez-14a141189/)
 * **Location:** Queens, NY (Authorized to work in the US for any employer – Permanent Resident)
