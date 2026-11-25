@@ -1,4 +1,3 @@
-# saucedemo-qa-portfolio
 # SauceDemo E-Commerce QA Portfolio (Manual, Cypress & MySQL)
 
 End-to-end Quality Assurance portfolio built by **Alondra Valdez** to demonstrate manual test design, structured defect reporting, automated UI testing with Cypress, and backend SQL data validation on a live web application ([Swag Labs / SauceDemo](https://saucedemo.com)).
